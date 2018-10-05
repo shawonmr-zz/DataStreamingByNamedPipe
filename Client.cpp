@@ -1,4 +1,4 @@
-#define _CRT_SECURE_NO_WARNINGS
+#define _CRT_SECURE_NO_WARNINGS //To use scanf properly
 
 #include <windows.h> 
 #include <stdio.h>
